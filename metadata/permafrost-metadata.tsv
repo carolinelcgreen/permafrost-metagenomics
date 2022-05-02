@@ -1,0 +1,66 @@
+sample	paired	site	year	month	country	depth	elevation	lat	long	sequencing_tech	ID
+ERR1960500	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	High Centered-50-Organic
+ERR1960501	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	High Centered-53-Organic
+ERR1960503	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	High Centered-53-Mineral
+ERR1960504	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Flat Centered-204-Organic
+ERR1960505	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Flat Centered-210-Organic
+ERR1960506	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Flat Centered-210-Mineral
+ERR1960507	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Flat Centered-214-Organic
+ERR1960508	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Flat Centered-214-Mineral
+ERR1960509	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Low Centered-405-Organic
+ERR1960510	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Low Centered-405-Mineral
+ERR1960511	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Low Centered-408.5-Organic
+ERR1960512	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Low Centered-408.5-Mineral
+ERR1960513	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Low Centered-411-Organic
+ERR1960515	no	alaska	2011	september	"Alaska, USA"	0-0.5	0	71.3	156.5	Illumina	Low Centered-415-Organic
+ERR3078909	yes	norway	2014		Svalbard	0.14	10	78.186	15.9248	HiSeq 2500
+ERR3078910	yes	norway	2014		Svalbard	1.18	10	78.186	15.9248	HiSeq 2500
+ERR3078911	yes	norway	2014		Svalbard	1.26	10	78.186	15.9248	HiSeq 2500
+ERR3078912	yes	norway	2014		Svalbard	1.44	10	78.186	15.9248	HiSeq 2500
+ERR3078913	yes	norway	2014		Svalbard	1.81	10	78.186	15.9248	HiSeq 2500
+ERR3890090	yes	canada	2019	july	Canada	0	43	67.473	-134.69	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890091	yes	canada	2019	july	Canada	0	43	67.451	-134.761	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890092	yes	canada	2019	july	Canada	0	43	67.477	-134.705	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890093	yes	canada	2019	july	Canada	0	43	67.37	-134.855	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890094	yes	canada	2019	july	Canada	0	43	67.353	-134.824	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890095	yes	canada	2019	august	Canada	0	149	63.151	-123.249	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890096	yes	canada	2019	august	Canada	0	149	63.151	-123.254	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890097	yes	canada	2019	august	Canada	0	149	63.145	-123.249	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890098	yes	canada	2019	august	Canada	0	149	63.16	-123.271	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890099	yes	canada	2019	august	Canada	0	149	62.874	-123.162	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890100	yes	canada	2019	august	Canada	0	320	59.48	-117.182	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890102	yes	canada	2019	august	Canada	0	320	59.48	-117.182	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890103	yes	canada	2019	august	Canada	0	320	59.225	-117.462	Illumina NextSeq High Input 300 cycles paired end (2x150
+ERR3890104	yes	canada	2019	august	Canada	0	320	59.44	-117.291	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890105	yes	canada	2019	august	Canada	0	320	59.353	-117.315	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890106	yes	canada	2019	august	Canada	0	330	55.982	-115.193	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890107	yes	canada	2019	august	Canada	0	330	56.01	-115.365	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890108	yes	canada	2019	august	Canada	0	330	56.009	-115.352	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890109	yes	canada	2019	august	Canada	0	330	56.074	-115.476	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890110	yes	canada	2019	august	Canada	0	330	56.023	-115.375	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890111	yes	canada	2020	august	United Kingdom	0	16.85	52.205337	0.121817	Illumina NextSeq High Input 300 cycles paired end (2x150)
+ERR3890112	yes	canada	2019	december	United Kingdom	0	16.85	52.205337	0.121817	Illumina NextSeq High Input 300 cycles paired end (2x150)
+SRR12277191	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, south, 160 cm depth, replicate 1"	"south slope, depth of 160 cm"		46.49634	9.93145		S160_1
+SRR12277192	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, south, 10 cm depth, replicate 3"	"south slope, depth of 10 cm"		46.49634	9.93145		S10_3
+SRR12277193	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, south, 10 cm depth, replicate 2"	"south slope, depth of 10 cm"		46.49634	9.93145		S10_2
+SRR12277194	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, south, 10 cm depth, replicate 1"	"south slope, depth of 10 cm"		46.49634	9.93145		S10_1
+SRR12277195	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, north, 160 cm depth, replicate 3"	"north slope, depth of 160cm"		46.49634	9.93145		N160_3
+SRR12277196	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, north, 160 cm depth, replicate 2"	"north slope, depth of 160cm"		46.49634	9.93145		N160_2
+SRR12277197	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, north, 160 cm depth, replicate 1"	"north slope, depth of 160cm"		46.49634	9.93145		N160_1
+SRR12277198	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, north, 10 cm depth, replicate 3"	"north slope, depth of 10cm"		46.49634	9.93145		N10_3
+SRR12277199	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, south, 160 cm depth, replicate 3"	"south slope, depth of 160 cm"		46.49634	9.93145		S160_3
+SRR12277200	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, south, 160 cm depth, replicate 2"	"south slope, depth of 160 cm"		46.49634	9.93145		S160_2
+SRR12277201	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, north, 10 cm depth, replicate 2"	"north slope, depth of 10cm"		46.49634	9.93145		N10_2
+SRR12277202	yes	swissAlps	2014	august	"Switzerland: Muot da Barba Peider, north, 10 cm depth, replicate 1"	"north slope, depth of 10cm"		46.49634	9.93145		N10_1
+SRR13106729	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	14.8m	4	70.05	159.55		14_8m_iDNA
+SRR13106730	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	14.8m	4	70.05	159.55		5_8m_eDNA_repairdd
+SRR13106731	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	5.8m	4	70.05	159.55		5_8m_eDNA
+SRR13106732	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	5.8m	4	70.05	159.55		5_8m_iDNA_repaired
+SRR13106733	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	5.8m	4	70.05	159.55		5_8m_iDNA
+SRR13106734	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	5.8m	4	70.05	159.55		3_4m_eDNA_repairdd
+SRR13106735	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	3.4m	4	70.05	159.55		3_4m_iDNA
+SRR13106736	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	3.4m	4	70.05	159.55
+SRR13106737	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	14.8m	4	70.05	159.55		3_4m_eDNA
+SRR13106738	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	14.8m	4	70.05	159.55		14_8m_eDNA_repairdd
+SRR13106739	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	3.4m	4	70.05	159.55		14_8m_eDNA
+SRR13106740	yes	russia	2017	august	"Russia:Cape Chukochii, East Siberian Sea"	3.4m	4	70.05	159.55		3_4m_iDNA_repaired
